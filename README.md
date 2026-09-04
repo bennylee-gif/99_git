@@ -13,3 +13,5 @@
 - 내용을 적습니다.
 - 그리고 commit 후
 - main에 pull request를 보냅니다. 
+
+- git fetch는 연동해줄까
